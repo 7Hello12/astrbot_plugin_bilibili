@@ -1,0 +1,9 @@
+{
+    "cookie": {
+        "description": "哔哩哔哩登录cookie",
+        "type": "string",
+        "hint": "浏览器F12获取Cookie",
+        "default": "",
+        "obvious_hint": true
+    }
+}
